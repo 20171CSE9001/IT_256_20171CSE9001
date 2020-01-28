@@ -1,4 +1,5 @@
 Hello.
 This is my first session.
 IT lab session.
-Today is wednesday.
+Today is tuesday.
+
